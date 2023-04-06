@@ -2,7 +2,7 @@
 
 My name is Jack Marshall, and I am a Senior Project Manager at Unity, a leading game development platform. I currently reside in the vibrant coastal city of Brighton, UK.
 
-I have been working in project management for a long time, and I have overseen the successful completion of numerous complex projects in various industries. In my spare time I also run [@tofu-testing](https://www.tofu-testing.com)carrying out production and testing for amazing indie games. 
+I have been working in project management for a long time, and I have overseen the successful completion of numerous complex projects in various industries. In my spare time I also run [@tofu-testing](https://www.tofu-testing.com) carrying out production and testing for amazing indie games. 
 
 I do not update my Github very often, but feel free to explore and don't hesitate to get in touch if you have any questions or collaboration opportunities. Thank you for visiting!
 
