@@ -1,6 +1,6 @@
 # Hello there! Welcome to my GitHub page.
 
-My name is Jack Marshall, and I work in the games industry. I currently reside in the vibrant coastal city of Brighton, UK.
+My name is Jack Marshall, and I work in the games industry as a Technical Writer and Project Specialist at Boneloaf. I currently reside in the vibrant coastal city of Brighton, UK.
 
 I have been working in games for a long time, and I have overseen the successful completion of numerous complex games and industry projects. In my spare time I also run [@tofu-testing](https://www.tofu-testing.com) carrying out production and testing for amazing indie games. 
 
